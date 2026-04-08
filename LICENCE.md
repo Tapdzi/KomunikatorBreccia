@@ -1,27 +1,31 @@
-BRECCIA RESTRICTIVE LICENSE (BRL)
-Copyright (c) 2026 Breccia Developers.
+PROPRIETARY SOURCE CODE LICENSE: BRECCIA
+Copyright (c) 2026 Breccia. All rights reserved.
 
-1. PREAMBLE
-This license governs the use of the "Breccia" communication software (the "Software"). This is not a permissive license. This is a digital wall. By interacting with this repository, you agree to be bound by the terms of your own silence.
+1. DEFINITIONS
+"Software" refers to the Breccia communication application, including all source code, binaries, documentation, and related assets contained within this repository. "Licensor" refers to the copyright holder specified above.
 
-2. THE "DO NOTHING" GRANT
-The Licensor hereby grants you a license to store the bits of this Software on a storage medium. This is the beginning and the end of your rights.
+2. LIMITED VIEWING RIGHTS
+The Licensor hereby grants any person obtaining a copy of this Software the limited, non-exclusive right to view the source code for educational or review purposes only. This license does not convey any ownership interest in the Software.
 
-3. EXPRESS PROHIBITIONS
-Under this license, you are strictly forbidden from:
+3. RESTRICTIONS AND PROHIBITIONS
+Notwithstanding any other provision of this Agreement, you are strictly prohibited from:
 
-Execution: Running the Software for any purpose, including but not limited to, sending messages, receiving messages, or checking if the Software works.
+Execution: Compiling, installing, or executing the Software for any personal, internal, or commercial purpose.
 
-Modification: Changing a single semicolon. The Software is perfect in its non-functionality.
+Modification: Altering, transforming, or building upon the Software, or creating derivative works based on the source code.
 
-Redistribution: Sharing the Software. If someone wants to be restricted, they must find this repository themselves.
+Distribution: Copying, publishing, redistributing, or sublicensing the Software or any portions thereof to any third party.
 
-Commercialization: You may not charge money for this Software, nor may you use it to facilitate any business transaction, as you are not allowed to send messages.
+Communication: Utilizing the Software's protocols or interfaces to facilitate any form of data transmission or electronic communication.
 
-Communication: Any attempt to use the Software to convey information from one human (or bot) to another is a material breach of this contract.
-
-4. NO WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE LICENSOR DOES NOT GUARANTEE THAT THE SOFTWARE WILL COMMUNICATE. IN FACT, THE LICENSOR GUARANTEES THAT IT WILL NOT, DUE TO THE LEGAL CONSTRAINTS OUTLINED IN SECTION 3.
+4. NO AUTOMATIC LICENSING
+The act of hosting this Software on a public repository (such as GitHub) does not constitute a waiver of any intellectual property rights or an implied license to use, modify, or distribute the Software under any open-source definitions.
 
 5. TERMINATION
-This license terminates the moment you attempt to click "Send", "Connect", or "Type". Upon termination, you must delete your local copy and reflect on your choices.
+Any breach of the terms outlined in Section 3 shall result in the immediate and automatic termination of this license. Upon termination, you must destroy all copies of the Software in your possession.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. GOVERNING LAW
+This License shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides, without regard to its conflict of law provisions.
